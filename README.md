@@ -9,6 +9,6 @@ prompter under your camera, invisible to screen sharing. Get a key at
 - Windows 10 (2004+) / 11, x64, 8 GB RAM
 - The app shows a live preview before you enter a key
 - Windows SmartScreen may ask you to confirm the publisher on first run
-- SHA-256 of `LuminaPrompter_0.3.1_x64-setup.exe` (same file as `LuminaPrompter-Setup.exe`): `15c559b80c5fb78d30058a52fe47bfdd0cc60e7dfa6e031320573c40b08b770f`
+- SHA-256 of `LuminaPrompter_0.3.2_x64-setup.exe` (same file as `LuminaPrompter-Setup.exe`): `d8fc9f9d8c80e8c4091e672586fa922922ef629bdb8b1466a3cc65a65579f2d8`
 
 The `.sig` files are update signatures used by the app's built-in updater.
